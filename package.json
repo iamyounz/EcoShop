@@ -1,0 +1,15 @@
+{
+    "name": "ecoshop",
+    "version": "1.0.0",
+    "description": "An open-source e-commerce solution focused on sustainability and eco-friendly products. 🌿 Live Icon: !Leaf Icon",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
